@@ -1,0 +1,201 @@
+Total unique words: 13680
+  1. the                   64924
+  2. and                   52164
+  3. of                    35311
+  4. to                    14046
+  5. that                  13223
+  6. in                    12891
+  7. he                    10516
+  8. shall                 9851
+  9. for                   9129
+ 10. unto                  9041
+ 11. i                     8864
+ 12. his                   8563
+ 13. a                     8436
+ 14. lord                  7856
+ 15. they                  7489
+ 16. be                    7188
+ 17. is                    7119
+ 18. not                   6727
+ 19. him                   6694
+ 20. them                  6513
+ 21. it                    6297
+ 22. with                  6099
+ 23. all                   5672
+ 24. thou                  5475
+ 25. was                   4607
+ 26. thy                   4606
+ 27. which                 4491
+ 28. god                   4489
+ 29. my                    4372
+ 30. me                    4101
+ 31. but                   4077
+ 32. their                 4016
+ 33. said                  4008
+ 34. ye                    3988
+ 35. have                  3969
+ 36. will                  3865
+ 37. thee                  3832
+ 38. from                  3702
+ 39. as                    3660
+ 40. are                   3006
+ 41. when                  2869
+ 42. this                  2854
+ 43. were                  2837
+ 44. out                   2805
+ 45. upon                  2792
+ 46. by                    2754
+ 47. man                   2637
+ 48. you                   2622
+ 49. israel                2570
+ 50. up                    2398
+ 51. son                   2373
+ 52. there                 2328
+ 53. hath                  2292
+ 54. king                  2270
+ 55. then                  2182
+ 56. people                2150
+ 57. came                  2097
+ 58. had                   2084
+ 59. into                  2057
+ 60. house                 2031
+ 61. on                    2024
+ 62. one                   2004
+ 63. her                   1998
+ 64. we                    1992
+ 65. come                  1980
+ 66. before                1826
+ 67. children              1809
+ 68. also                  1802
+ 69. your                  1797
+ 70. so                    1773
+ 71. day                   1736
+ 72. an                    1726
+ 73. land                  1720
+ 74. against               1689
+ 75. men                   1677
+ 76. if                    1657
+ 77. shalt                 1617
+ 78. at                    1604
+ 79. let                   1521
+ 80. go                    1501
+ 81. us                    1491
+ 82. hand                  1481
+ 83. saying                1447
+ 84. no                    1432
+ 85. made                  1425
+ 86. even                  1411
+ 87. went                  1404
+ 88. do                    1398
+ 89. now                   1374
+ 90. behold                1327
+ 91. saith                 1281
+ 92. therefore             1260
+ 93. every                 1247
+ 94. these                 1236
+ 95. or                    1225
+ 96. because               1222
+ 97. our                   1218
+ 98. after                 1194
+ 99. things                1188
+100. down                  1129
+101. david                 1087
+102. sons                  1080
+103. make                  1074
+104. say                   1073
+105. hast                  1071
+106. o                     1070
+107. may                   1068
+108. chapter               1039
+109. did                   1038
+110. what                  1016
+111. over                  1015
+112. earth                 992
+113. great                 989
+114. father                987
+115. who                   985
+116. she                   982
+117. jesus                 979
+118. any                   940
+119. thine                 938
+120. name                  935
+121. among                 923
+122. away                  920
+123. thereof               919
+124. put                   918
+125. forth                 904
+126. neither               898
+127. give                  885
+128. take                  882
+129. am                    875
+130. brought               872
+131. city                  870
+132. days                  860
+133. two                   839
+134. moses                 835
+135. heart                 833
+136. pass                  833
+137. judah                 814
+138. jerusalem             813
+139. should                809
+140. according             801
+141. know                  774
+142. whom                  772
+143. nor                   769
+144. good                  753
+145. took                  752
+146. thus                  746
+147. bring                 738
+148. word                  726
+149. yet                   725
+150. offering              724
+151. place                 722
+152. set                   710
+153. more                  709
+154. sent                  690
+155. like                  686
+156. again                 685
+157. way                   674
+158. eat                   656
+159. mine                  650
+160. about                 647
+161. heard                 643
+162. called                640
+163. time                  640
+164. holy                  623
+165. evil                  617
+166. own                   615
+167. egypt                 612
+168. see                   601
+169. many                  597
+170. hundred               593
+171. spake                 591
+172. heaven                587
+173. done                  575
+174. brethren              570
+175. christ                566
+176. words                 563
+177. thing                 561
+178. hear                  555
+179. fire                  551
+180. how                   550
+181. saw                   550
+182. himself               545
+183. fathers               544
+184. years                 541
+185. law                   527
+186. speak                 523
+187. thousand              521
+188. spirit                515
+189. than                  511
+190. off                   510
+191. voice                 509
+192. eyes                  504
+193. cast                  503
+194. given                 501
+195. priest                498
+196. art                   495
+197. servant               493
+198. answered              492
+199. together              490
+200. might                 489

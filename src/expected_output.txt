@@ -1,0 +1,74 @@
+Total unique words: 73
+ 1. in           4
+ 2. sed          4
+ 3. vel          4
+ 4. amet         3
+ 5. convallis    3
+ 6. maecenas     3
+ 7. nulla        3
+ 8. pellentesque 3
+ 9. placerat     3
+10. sit          3
+11. ac           2
+12. dapibus      2
+13. enim         2
+14. est          2
+15. euismod      2
+16. facilisis    2
+17. fermentum    2
+18. ipsum        2
+19. lectus       2
+20. maximus      2
+21. nec          2
+22. non          2
+23. pulvinar     2
+24. quam         2
+25. sapien       2
+26. tellus       2
+27. ut           2
+28. velit        2
+29. vulputate    2
+30. adipiscing   1
+31. aliquam      1
+32. arcu         1
+33. at           1
+34. commodo      1
+35. congue       1
+36. consectetur  1
+37. diam         1
+38. dictum       1
+39. dolor        1
+40. duis         1
+41. eget         1
+42. eleifend     1
+43. elit         1
+44. erat         1
+45. eu           1
+46. felis        1
+47. fringilla    1
+48. id           1
+49. imperdiet    1
+50. justo        1
+51. lacus        1
+52. lorem        1
+53. magna        1
+54. massa        1
+55. mattis       1
+56. mauris       1
+57. mi           1
+58. mollis       1
+59. nam          1
+60. neque        1
+61. nisi         1
+62. nisl         1
+63. nullam       1
+64. nunc         1
+65. orci         1
+66. rhoncus      1
+67. sodales      1
+68. ullamcorper  1
+69. ultricies    1
+70. urna         1
+71. venenatis    1
+72. vestibulum   1
+73. vitae        1
